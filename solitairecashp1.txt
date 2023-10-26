@@ -2,7 +2,7 @@
 SdkKeyBegin##{vbBpL97l7ZbnglDkPemgweiHXkZfM4kTmVRu_N2xzv2c0cpq2eVM5JLUsV4g5JcRSpnHttsEnylSBGHUTSEGX7}##LastSdkKey
 bannerIdBegin##{c21d2724591403d4}##LastbannerId
 InterIdBegin##{9d9f56d36a5688d6}##LastInterId
-RewordIdBegin##{}##LastRewordId
+RewordIdBegin##{2163a94085559327}##LastRewordId
 //url More Game And also when game suspend we just add new link to url more game
 UrlMoreGameBegin##{ cc}##LastUrlMoreGame
 //url sheir button
